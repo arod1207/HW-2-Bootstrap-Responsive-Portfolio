@@ -1,0 +1,30 @@
+.navbar {
+    border: 1px solid green;
+    padding: 10px;
+}
+
+.nav-item {
+    color: red;
+    border: 1px solid purple;
+    padding-right: 30px;
+}
+
+.nav-link {
+    color: red;
+    border: 1px solid gold;
+    font-size: 20px;    
+}
+
+.jumbotron {
+    margin: 20px 100px 0 100px;
+
+}
+
+.contact {
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+  .sites {
+      margin-bottom: 20px;
+  }
