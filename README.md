@@ -1,7 +1,7 @@
 # HW-2-Bootstrap-Responsive-Portfolio
 # Homework #2
 
-### Made a responsive bootstrap about me page.
+### Made a responsive bootstrap About Me page.
 
 ### 3 different pages
 
@@ -9,5 +9,5 @@
 * portfolio.html
 * contact.html
 
-### used some flexbox attributes to line some of elements
+### used some flexbox attributes to line some of the elements
 
